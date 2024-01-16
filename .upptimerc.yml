@@ -3,10 +3,32 @@ owner: Asbury-Theological-Seminary-A-Team # Your GitHub organization or username
 repo: status # The name of this repository
 
 sites:
-  - name: AsburySeminary.edu
-    url: http://www.asburyseminary.edu/
+  - name: Internet (KY)
+    url: https://www.asburyseminary.edu/
+  - name: Internet (TN)
+    url: https://www.asburyseminary.edu/
+  - name: Internet (OK)
+    url: https://www.asburyseminary.edu/
+  - name: Phones (KY)
+    url: https://www.asburyseminary.edu/
+  - name: Campus Nexus
+    url: https://www.asburyseminary.edu/
+  - name: Dynamics GP
+    url: https://www.asburyseminary.edu/
+  - name: Library Loan
+  - name: EBSCO
+  - name: G Suite
+  - name: Simple Syllabus
   - name: Zoom
     url: https://asburyseminary.zoom.us/
+  - name: EvaluationKit
+  - name: Library Catalog (Evergreen)
+    url: http://evergreen.asburyseminary.edu
+  - name: Connect
+    url: https://connect.asburyseminary.edu/
+  - name: Canvas
+  - name: Portal
+    url: https://portal.asburyseminary.edu/
   - name: Authentication/Single Sign On Systems
     url: https://login.asburyseminary.edu/
   - name: Help Desk
@@ -17,7 +39,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://asburyseminary.edu/wp-content/themes/asburyseminary/img/logo-wide-white.png
   name: ATS System Status
   introTitle: "Uptime monitor and status page for Asbury Theological Seminary LITS Systems"
   introMessage: 
