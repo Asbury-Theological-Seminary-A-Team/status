@@ -9,8 +9,6 @@ sites:
     url: https://helpdesk.asburyseminary.edu/
   - name: Campus Nexus
     url: https://facultyportal.asburyseminary.edu/identity/
-  - name: Library Loan
-    url: https://1124.account.worldcat.org/profile
   - name: EBSCO
     url: https://eds.p.ebscohost.com/
   - name: Zoom
