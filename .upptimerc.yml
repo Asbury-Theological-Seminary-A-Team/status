@@ -9,26 +9,18 @@ sites:
     url: https://helpdesk.asburyseminary.edu/
   - name: Campus Nexus
     url: https://facultyportal.asburyseminary.edu/identity/
-  - name: Dynamics GP
-    url: https://www.asburyseminary.edu/
   - name: Library Loan
-    url: https://www.asburyseminary.edu/
+    url: https://1124.account.worldcat.org/profile
   - name: EBSCO
     url: https://eds.p.ebscohost.com/
-  - name: G Suite
-    url: https://www.asburyseminary.edu/
-  - name: Simple Syllabus
-    url: https://www.asburyseminary.edu/
   - name: Zoom
     url: https://asburyseminary.zoom.us/
-  - name: EvaluationKit
-    url: https://www.asburyseminary.edu/
   - name: Library Catalog (Evergreen)
     url: http://evergreen.asburyseminary.edu/
   - name: Connect
     url: https://connect.asburyseminary.edu/
   - name: Canvas
-    url: https://www.asburyseminary.edu/
+    url: https://statushistory.instructure.com/asburyseminary.instructure.com
   - name: Portal
     url: https://portal.asburyseminary.edu/
   - name: Authentication/Single Sign On Systems
