@@ -49,6 +49,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://asburyseminary.edu/wp-content/themes/asburyseminary/img/logo-wide-white.png
+  themeUrl: https://asbury-theological-seminary-a-team.github.io/status/ats-theme.css
   name: System Status
   introTitle: "System uptime and status monitor for Asbury Theological Seminary."
   introMessage: For support, please contact the Help Desk.
