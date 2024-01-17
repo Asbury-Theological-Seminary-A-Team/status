@@ -3,26 +3,42 @@ owner: Asbury-Theological-Seminary-A-Team # GitHub organization or username, whe
 repo: status # The name of this repository
 
 sites:
+  - name: Anthology Faculty/Student Portal
+    url: https://portal.asburyseminary.edu/
+  - name: Anthology Student (Nexus) Web Client
+    url: https://facultyportal.asburyseminary.edu/identity/
+  - name: Asbury Connect
+    url: https://connect.asburyseminary.edu/
+  - name: Asbury Seminary Help Desk
+    url: https://helpdesk.asburyseminary.edu/
   - name: AsburySeminary.edu
     url: https://www.asburyseminary.edu/
-  - name: Help Desk
-    url: https://helpdesk.asburyseminary.edu/
-  - name: Campus Nexus
-    url: https://facultyportal.asburyseminary.edu/identity/
+  - name: Authentication & Single Sign On Systems
+    url: https://login.asburyseminary.edu/
+  - name: Canvas
+    url: https://asburyseminary.instructure.com/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
   - name: EBSCO
     url: https://eds.p.ebscohost.com/
-  - name: Zoom
-    url: https://asburyseminary.zoom.us/
+  - name: Google Workspace
+    url: https://www.google.com/a/asburyseminary.edu/ServiceLogin
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
   - name: Library Catalog (Evergreen)
     url: http://evergreen.asburyseminary.edu/
-  - name: Connect
-    url: https://connect.asburyseminary.edu/
-  - name: Canvas
-    url: https://statushistory.instructure.com/asburyseminary.instructure.com
-  - name: Portal
-    url: https://portal.asburyseminary.edu/
-  - name: Authentication/Single Sign On Systems
-    url: https://login.asburyseminary.edu/
+  - name: Library Catalog Search (Guides)
+    url: http://guides.asburyseminary.edu/
+  - name: Library Catalog Search (Libcat)
+    url: http://libcat.asburyseminary.edu/
+  - name: Simple Syllabus
+    url: https://asburyseminary.simplesyllabus.com/en-US/login/
+  - name: Zoom
+    url: https://asburyseminary.zoom.us/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
