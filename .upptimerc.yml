@@ -16,7 +16,7 @@ sites:
   - name: Authentication & Single Sign On Systems
     url: https://login.asburyseminary.edu/
   - name: Canvas
-    url: https://asburyseminary.instructure.com/
+    url: https://asburyseminary.instructure.com/login
     expectedStatusCodes:
       - 200
       - 201
