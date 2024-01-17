@@ -48,8 +48,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://asburyseminary.edu/wp-content/themes/asburyseminary/img/logo-wide-white.png
+  # Styling
+  logoUrl: https://asbury-theological-seminary-a-team.github.io/status/logo-wide-white.png
   themeUrl: https://asbury-theological-seminary-a-team.github.io/status/ats-theme.css
+  css: ".nav {color: #fff;} .nav a {padding: 1.5rem 0.75rem;} .nav ul {text-decoration: underline;}"
+  # Headings
   name: System Status
   introTitle: "System uptime and status monitor for Asbury Theological Seminary."
   introMessage: For support, please contact the Help Desk.
