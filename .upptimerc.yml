@@ -29,6 +29,8 @@ sites:
       - 200
       - 201
       - 302
+  - name: Internet (Windstream, KY)
+    url: https://198.160.139.76/
   - name: Library Catalog (Evergreen)
     url: http://evergreen.asburyseminary.edu/
   - name: Library Catalog Search (Guides)
