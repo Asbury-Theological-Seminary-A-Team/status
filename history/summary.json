@@ -76,18 +76,20 @@
     "url": "https://www.asburyseminary.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/www.asburyseminary.edu.ico",
     "slug": "asbury-seminary-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1317,
-    "timeDay": 658,
-    "timeWeek": 1317,
-    "timeMonth": 1317,
-    "timeYear": 1317,
-    "dailyMinutesDown": {}
+    "time": 1330,
+    "timeDay": 1124,
+    "timeWeek": 1330,
+    "timeMonth": 1330,
+    "timeYear": 1330,
+    "dailyMinutesDown": {
+      "2024-01-22": 0
+    }
   },
   {
     "name": "Authentication & Single Sign On Systems",
