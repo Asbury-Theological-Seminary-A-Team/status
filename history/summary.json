@@ -114,19 +114,19 @@
     "url": "https://asburyseminary.instructure.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/asburyseminary.instructure.com.ico",
     "slug": "canvas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 717,
-    "timeDay": 422,
-    "timeWeek": 625,
-    "timeMonth": 717,
-    "timeYear": 717,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 750,
+    "timeDay": 983,
+    "timeWeek": 789,
+    "timeMonth": 750,
+    "timeYear": 750,
     "dailyMinutesDown": {
-      "2024-02-13": 0
+      "2024-02-13": 38
     }
   },
   {
