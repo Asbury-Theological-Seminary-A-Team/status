@@ -114,18 +114,20 @@
     "url": "https://asburyseminary.instructure.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/asburyseminary.instructure.com.ico",
     "slug": "canvas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 730,
-    "timeDay": 671,
-    "timeWeek": 690,
-    "timeMonth": 730,
-    "timeYear": 730,
-    "dailyMinutesDown": {}
+    "time": 717,
+    "timeDay": 422,
+    "timeWeek": 625,
+    "timeMonth": 717,
+    "timeYear": 717,
+    "dailyMinutesDown": {
+      "2024-02-13": 0
+    }
   },
   {
     "name": "EBSCO",
