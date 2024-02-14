@@ -58,6 +58,6 @@ status-website:
   introMessage: For support, please contact the Help Desk.
   navbar:
     - title: Status
-      href: /status
+      href: /
     - title: Help Desk
       href: https://helpdesk.asburyseminary.edu
