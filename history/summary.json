@@ -40,19 +40,19 @@
     "url": "https://connect.asburyseminary.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/connect.asburyseminary.edu.ico",
     "slug": "asbury-connect",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1071,
-    "timeDay": 889,
-    "timeWeek": 1247,
-    "timeMonth": 1071,
-    "timeYear": 1071,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1074,
+    "timeDay": 930,
+    "timeWeek": 1241,
+    "timeMonth": 1074,
+    "timeYear": 1074,
     "dailyMinutesDown": {
-      "2024-02-14": 0
+      "2024-02-14": 10
     }
   },
   {
