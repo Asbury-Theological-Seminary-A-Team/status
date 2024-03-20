@@ -60,9 +60,9 @@
     "url": "https://helpdesk.asburyseminary.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.asburyseminary.edu.ico",
     "slug": "asbury-seminary-help-desk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 603,
     "timeMonth": 1255,
     "timeYear": 864,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-20": 0
+    }
   },
   {
     "name": "AsburySeminary.edu",
