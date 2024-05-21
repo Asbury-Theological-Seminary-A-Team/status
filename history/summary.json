@@ -101,18 +101,20 @@
     "url": "https://login.asburyseminary.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/login.asburyseminary.edu.ico",
     "slug": "authentication-and-single-sign-on-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 181,
-    "timeWeek": 371,
-    "timeMonth": 397,
-    "timeYear": 680,
-    "dailyMinutesDown": {}
+    "time": 676,
+    "timeDay": 168,
+    "timeWeek": 344,
+    "timeMonth": 389,
+    "timeYear": 676,
+    "dailyMinutesDown": {
+      "2024-05-21": 0
+    }
   },
   {
     "name": "Canvas",
