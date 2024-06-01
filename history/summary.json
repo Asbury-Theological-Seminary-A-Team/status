@@ -4,19 +4,19 @@
     "url": "https://portal.asburyseminary.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.asburyseminary.edu.ico",
     "slug": "anthology-faculty-student-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 573,
-    "timeDay": 675,
-    "timeWeek": 500,
-    "timeMonth": 489,
-    "timeYear": 573,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "95.72%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.97%",
+    "time": 770,
+    "timeDay": 14738,
+    "timeWeek": 4038,
+    "timeMonth": 1373,
+    "timeYear": 770,
     "dailyMinutesDown": {
-      "2024-06-01": 0
+      "2024-06-01": 62
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://facultyportal.asburyseminary.edu/identity/",
     "icon": "https://icons.duckduckgo.com/ip3/facultyportal.asburyseminary.edu.ico",
     "slug": "anthology-student-nexus-web-client",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 413,
-    "timeDay": 452,
-    "timeWeek": 864,
-    "timeMonth": 474,
-    "timeYear": 413,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "95.71%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.97%",
+    "time": 433,
+    "timeDay": 1865,
+    "timeWeek": 1166,
+    "timeMonth": 562,
+    "timeYear": 433,
     "dailyMinutesDown": {
-      "2024-06-01": 0
+      "2024-06-01": 62
     }
   },
   {
