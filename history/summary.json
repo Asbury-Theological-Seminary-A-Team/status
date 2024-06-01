@@ -235,9 +235,9 @@
     "url": "http://libcat.asburyseminary.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/libcat.asburyseminary.edu.ico",
     "slug": "library-catalog-search-libcat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -246,7 +246,9 @@
     "timeWeek": 505,
     "timeMonth": 499,
     "timeYear": 616,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-01": 0
+    }
   },
   {
     "name": "Simple Syllabus",
