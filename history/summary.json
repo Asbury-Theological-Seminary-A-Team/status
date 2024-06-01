@@ -4,9 +4,9 @@
     "url": "https://portal.asburyseminary.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.asburyseminary.edu.ico",
     "slug": "anthology-faculty-student-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 500,
     "timeMonth": 489,
     "timeYear": 573,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-01": 0
+    }
   },
   {
     "name": "Anthology Student (Nexus) Web Client",
     "url": "https://facultyportal.asburyseminary.edu/identity/",
     "icon": "https://icons.duckduckgo.com/ip3/facultyportal.asburyseminary.edu.ico",
     "slug": "anthology-student-nexus-web-client",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 864,
     "timeMonth": 474,
     "timeYear": 413,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-01": 0
+    }
   },
   {
     "name": "Asbury Connect",
