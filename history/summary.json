@@ -4,11 +4,11 @@
     "url": "https://portal.asburyseminary.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.asburyseminary.edu.ico",
     "slug": "anthology-faculty-student-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
     "time": 756,
     "timeDay": 326,
@@ -16,6 +16,7 @@
     "timeMonth": 1365,
     "timeYear": 756,
     "dailyMinutesDown": {
+      "2024-06-06": 5,
       "2024-06-01": 62
     }
   },
@@ -24,11 +25,11 @@
     "url": "https://facultyportal.asburyseminary.edu/identity/",
     "icon": "https://icons.duckduckgo.com/ip3/facultyportal.asburyseminary.edu.ico",
     "slug": "anthology-student-nexus-web-client",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
     "time": 429,
     "timeDay": 223,
@@ -36,6 +37,7 @@
     "timeMonth": 566,
     "timeYear": 429,
     "dailyMinutesDown": {
+      "2024-06-06": 4,
       "2024-06-01": 62
     }
   },
@@ -44,11 +46,11 @@
     "url": "https://connect.asburyseminary.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/connect.asburyseminary.edu.ico",
     "slug": "asbury-connect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1254,
     "timeDay": 817,
@@ -56,6 +58,7 @@
     "timeMonth": 982,
     "timeYear": 1254,
     "dailyMinutesDown": {
+      "2024-06-06": 4,
       "2024-04-08": 22,
       "2024-03-09": 21
     }
@@ -65,11 +68,11 @@
     "url": "https://helpdesk.asburyseminary.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.asburyseminary.edu.ico",
     "slug": "asbury-seminary-help-desk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 760,
     "timeDay": 605,
@@ -77,6 +80,7 @@
     "timeMonth": 753,
     "timeYear": 760,
     "dailyMinutesDown": {
+      "2024-06-06": 3,
       "2024-06-04": 17,
       "2024-03-20": 15
     }
@@ -86,11 +90,11 @@
     "url": "https://www.asburyseminary.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/www.asburyseminary.edu.ico",
     "slug": "asbury-seminary-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1355,
     "timeDay": 778,
@@ -98,6 +102,7 @@
     "timeMonth": 1100,
     "timeYear": 1355,
     "dailyMinutesDown": {
+      "2024-06-06": 3,
       "2024-01-22": 18
     }
   },
@@ -106,10 +111,10 @@
     "url": "https://login.asburyseminary.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/login.asburyseminary.edu.ico",
     "slug": "authentication-and-single-sign-on-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 675,
@@ -118,6 +123,7 @@
     "timeMonth": 517,
     "timeYear": 675,
     "dailyMinutesDown": {
+      "2024-06-06": 2,
       "2024-05-21": 25
     }
   },
@@ -182,10 +188,10 @@
     "url": "https://198.160.139.76/global-protect/login.esp",
     "icon": "https://icons.duckduckgo.com/ip3/198.160.139.76.ico",
     "slug": "internet-windstream-ky",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
@@ -193,17 +199,19 @@
     "timeWeek": 150,
     "timeMonth": 192,
     "timeYear": 179,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-06": 2
+    }
   },
   {
     "name": "Library Catalog (Evergreen)",
     "url": "http://evergreen.asburyseminary.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/evergreen.asburyseminary.edu.ico",
     "slug": "library-catalog-evergreen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 612,
@@ -211,17 +219,19 @@
     "timeWeek": 507,
     "timeMonth": 500,
     "timeYear": 612,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-06": 1
+    }
   },
   {
     "name": "Library Catalog Search (Guides)",
     "url": "http://guides.asburyseminary.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/guides.asburyseminary.edu.ico",
     "slug": "library-catalog-search-guides",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 786,
@@ -229,17 +239,19 @@
     "timeWeek": 527,
     "timeMonth": 656,
     "timeYear": 786,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-06": 1
+    }
   },
   {
     "name": "Library Catalog Search (Libcat)",
     "url": "http://libcat.asburyseminary.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/libcat.asburyseminary.edu.ico",
     "slug": "library-catalog-search-libcat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.37%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.36%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
     "time": 619,
@@ -248,6 +260,7 @@
     "timeMonth": 531,
     "timeYear": 619,
     "dailyMinutesDown": {
+      "2024-06-06": 0,
       "2024-06-01": 64
     }
   },
