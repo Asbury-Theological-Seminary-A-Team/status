@@ -1,7 +1,7 @@
 url: http://evergreen.asburyseminary.edu/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-01T11:52:36.575Z
+status: up
+code: 200
+responseTime: 514
+lastUpdated: 2024-08-01T12:16:03.928Z
 startTime: 2024-01-16T19:32:22.055Z
 generator: Upptime <https://github.com/upptime/upptime>
